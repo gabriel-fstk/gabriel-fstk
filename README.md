@@ -54,4 +54,4 @@ Estou atualmente trabalhando em alguns projetos interessantes que serão adicion
 
 Vamos conectar! 🌐
 
-[![GitHub](https://img.shields.io/badge/GitHub-@gsoaresz-black)](https://github.com/gabriel-fstk)
+[![GitHub](https://img.shields.io/badge/GitHub-@gsoaresz-black)](https://github.com/gsoaresz)
