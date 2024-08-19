@@ -43,7 +43,7 @@ Estou atualmente trabalhando em alguns projetos interessantes que serão adicion
 
 ## 📫 Contato
 
-- **LinkedIn**: [Gabriel Soares]([link-do-linkedin](https://www.linkedin.com/in/gabriel-soares-5a551a207/))
+- **LinkedIn**: [Gabriel Soares]([https://www.linkedin.com/in/gabriel-soares-5a551a207/](https://www.linkedin.com/in/gabriel-soares-5a551a207/))
 - **Email**: [gabriel.soares@aluno.riogrande.ifrs.edu.br](mailto:gabriel.soares@aluno.riogrande.ifrs.edu.br)
 
 ## 📈 Estatísticas de GitHub
