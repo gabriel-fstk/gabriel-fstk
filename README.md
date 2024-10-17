@@ -7,12 +7,14 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em diversas stacks e um forte histórico acadêmico e profissional. Atualmente, trabalho na **Datamex**, onde continuo aprimorando minhas habilidades e contribuindo para projetos desafiadores.
 
-## 💻 Stack Tecnológica
+## 💻 Tech Stack
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
 
 Aqui está uma visão geral das tecnologias que mais utilizo:
 
 - **JavaScript**: Utilizando para desenvolvimento web e projetos de API.
-- **PHP**: Trabalhando com sistemas de backend e implementação de permissões.
+- **PHP**: Trabalhando com sistemas de backend com orientação a objetos.
 - **MySQL/PostgreSQL**: Experiência com bancos de dados relacionais e consultas SQL.
 - **Java**: Desenvolvimento de sistemas com orientação a objetos e de boas práticas de programação.
 - **Bootstrap**: Frameworks para estilização e desenvolvimento frontend.
